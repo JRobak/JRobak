@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ0b2k5czN3aDdjZXlpcmZjZXBxM3lvNHFsNjI3Nzh0amRicGpqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" width="200"/>
 
 # Howdy y'all! 👋 My name is Jacob, but my friends call me Cowboy 🤠.
 
