@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ0b2k5czN3aDdjZXlpcmZjZXBxM3lvNHFsNjI3Nzh0amRicGpqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" width="200"/>
+<div> Coding <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ0b2k5czN3aDdjZXlpcmZjZXBxM3lvNHFsNjI3Nzh0amRicGpqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" width="200"/> Cowboy</div>
 
 # Howdy y'all! 👋 My name is Jacob, but my friends call me Cowboy 🤠.
 
