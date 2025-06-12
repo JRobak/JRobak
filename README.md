@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200"/>
+
 # Howdy y'all! 👋 My name is Jacob, but my friends call me Cowboy 🤠.
 
 ## I'm super excited to be in college right now, currently working for a Technical Certificate in Software Application Development with the overall goal of an Associates degree in Software Engineering, Web Development, or Cloud Technologies... Decisions, decisions. I'm currently working as a forklift driver, something I have done for several years, but tech has quickly become my obsession.
